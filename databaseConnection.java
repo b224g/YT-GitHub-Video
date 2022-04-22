@@ -25,6 +25,7 @@ public class databaseConnection {
             return null;
         }
     }
+    //ce code permet de faire la connection avec la base de donnée
     
     
 }
